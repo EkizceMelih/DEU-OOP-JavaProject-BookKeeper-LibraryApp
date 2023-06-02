@@ -1,0 +1,20 @@
+
+Book,Utopia,Karbon Kitaplar,112,10.0,utopic,Thomas More,Turkish,English Literature
+Book,Ulysses,YapiKredi Yayinlari,844,4.0,fiction,James Joyce,Turkish,Irish Literature
+Book,Don Quixote,Can Yayinlari,289,7.8,parody,Miguel de Cervantes,Turkish,Spanish Literature
+Book,Fahrenheit 451,İthaki,208,9.8,distopic,Ray Bradbury,Turkish,American Literature
+Book,Nutuk,YapiKredi Yayinlari,543,10.0,speech,Mustafa Kemal Ataturk,Turkish,Turkish Literature
+Magazine,Bilim Teknik,TUBITAK,120,10.0,science,Ozlem Kilic Ekici
+TestBook,3D AYT Math,3D YAYINEVI,272,8.9,Mathematic,Ozgur Balci,1400,1280,100,1255.0
+Book,Kurk Mantolu Madonna,IsBankasi Yayinlari,50,4.0,love,Sabahattin Ali,Turkish,Turkish Literature
+TestBook,Aydın AYT Kimya,Aydın Yayinlari,13,5.6,Chemistry,Ali Dincsonmez,1100,980,80,960.0
+Book,Vatan Yahut Silistre,IsBankasi Yayinlari,112,10.0,theatre,Namik Kemal,Turkish,Turkish Literature
+Book,Animal Farm,Can Yayinlari,256,10.0,fabl,George Orwell,English,English Literature
+TestBook,Apotemi Integration,Apotemi Yayinlari,224,9.9,Mathematic,Fatih Ihtiyaroglu,500,410,80,390.0
+Book,Araba Sevdasi,YapiKredi Yayinlari,320,7.5,realistic,Recaizade Mahmut Ekrem,Turkish,Turkish Literature
+Book,Rakim Efendi ve Felatun Bey,YapiKredi Yayinlari,180,7.8,fiction,Ahmet Mithat,Turkish,Turkish Literature
+TestBook,Nihat Bilgin AYT Fizik,Nihat Bilgin Yayinlari,13,5.6,Physic,Nihat Bilgin,880,754,80,734.0
+Book,Yaban,İletisim Yayinlari,112,10.0,historical fiction,Yakup Kadri Karaosmanoglu,Turkish,Turkish Literature
+Book,Kite Runner,Everest Yayinlari,371,8.4,realistic,Khaled Hosseini,English,Afghan Literature
+TestBook,345 AYT Math,345 Yayinlari,412,7.9,Mathematic,Hasan Mert Yilmaz,1500,1250,10,1247.5
+Magazine,Bilim Cocuk,TUBITAK,124,10.0,science,Selin Yildirim
